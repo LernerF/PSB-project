@@ -33,3 +33,4 @@ RAG (Retrieval-Augmented Generation) через API и два интерфейс
 
 • Специалист по документации: Ирина Кравченко
 
+
